@@ -1,4 +1,4 @@
-# Hey there, I'm Isaiah 
+# Hi there, I'm Isaiah 
 
 I'm a developer passionate about coding, self-hosting, and Linux!
 
