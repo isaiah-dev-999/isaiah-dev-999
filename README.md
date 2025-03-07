@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there, I'm Isaiah 👋
 
-<!--
-**isaiah-dev-999/isaiah-dev-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about coding, self-hosting, and Linux! 🖥️🚀
 
-Here are some ideas to get you started:
+- 🔧 I work with **Python and JavaScript**
+- 🛠️ Self-hosting on **Proxmox** and experimenting with **Linux distros**
+- 🎮 Gamer at heart, playing **Rocket League & Destiny 2**
+- 📖 Learning **Rust & advanced Linux networking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Languages & Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/visualstudiocode.svg"/>
+
+
+### 📊 GitHub Stats:
+![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaiahDev&show_icons=true&theme=dark)
+
+---
+
+### 📫 Contact Me:
+- Discord: **YourUsername#1234**
+- Twitter: [@YourTwitter](https://twitter.com/YourTwitter)
+- Email: **your.email@example.com**
