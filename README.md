@@ -2,10 +2,9 @@
 
 I'm a developer passionate about coding, self-hosting, and Linux! 🖥️🚀
 
-- 🔧 I work with **Python and JavaScript**
-- 🛠️ Self-hosting on **Proxmox** and experimenting with **Linux distros**
+- I work with **Python and JavaScript**
+- Self-hosting on **Proxmox** and experimenting with **Linux distros**
 
-<br />
  
 ### 🌟 Languages & Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.svg"/>
@@ -20,4 +19,4 @@ I'm a developer passionate about coding, self-hosting, and Linux! 🖥️🚀
 
 ### 📫 Contact Me: 
 - Discord: **isaiah_dev**
-- Email: **Isaiah@isaiahdev999.com** ```
+- Email: **Isaiah@isaiahdev999.com**
