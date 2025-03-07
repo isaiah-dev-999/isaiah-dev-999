@@ -8,7 +8,7 @@ I'm a developer passionate about coding, self-hosting, and Linux! 🖥️🚀
 - 📖 Learning **Rust & advanced Linux networking**
 
 ### 🌟 Languages & Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/visualstudiocode.svg"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.svg"/>
 
 
 
