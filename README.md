@@ -1,9 +1,8 @@
 # Hey there, I'm Isaiah 👋
 
-I'm a developer passionate about coding, self-hosting, and Linux! 🖥️🚀
+I'm a developer passionate about coding, self-hosting, and Linux!
 
-- I work with **Python and JavaScript**
-- Self-hosting on **Proxmox** and experimenting with **Linux distros**
+I develop with Python and JavaScript, but my true passion lies in the realm of self-hosting. I enjoy experimenting with different Linux distributions on Proxmox to build and maintain my own server infrastructure.
 
  
 ### Languages & Tools:
