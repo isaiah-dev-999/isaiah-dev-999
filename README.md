@@ -7,13 +7,18 @@ I'm a developer passionate about coding, self-hosting, and Linux! 🖥️🚀
 
 
 ### 🌟 Languages & Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.svg"/>
-<img align="left" alt="Python" width="26px" src="./img/python.svg"/>
-<img align="left" alt="Java" width="26px" src="./img/javascript.svg"/>
-<img align="left" alt="Docker" width="26px" src="./img/docker.svg"/>
-<img align="left" alt="Github" width="26px" src="./img/github.svg"/>
 
----
-### 📫 Contact Me:  
+<div align="center">
+  <img src="./img/vscode.svg" alt="Visual Studio Code" width="40px" />
+  <img src="./img/python.svg" alt="Python" width="40px" />
+  <img src="./img/javascript.svg" alt="Java" width="40px" />
+  <img src="./img/docker.svg" alt="Docker" width="40px" />
+  <img src="./img/github.svg" alt="Github" width="40px" />
+</div>
+
+### 📫 Contact Me: 
+
 - Discord: **isaiah_dev**
-- Email: **Isaiah@isaiahdev999.com*
+- Email: **Isaiah@isaiahdev999.com** ```
+
+Remember to save your changes, commit them, and push them to your GitHub repository to see the updated README!
