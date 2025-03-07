@@ -15,8 +15,8 @@ I'm a developer passionate about coding, self-hosting, and Linux! 🖥️🚀
 
 
 
+---
 
-
-# 📫 Contact Me:  
+### 📫 Contact Me:  
 - Discord: **isaiah_dev**
 - Email: **Isaiah@isaiahdev999.com*
