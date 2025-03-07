@@ -13,8 +13,6 @@ I'm a developer passionate about coding, self-hosting, and Linux! 🖥️🚀
 <img align="left" alt="Docker" width="26px" src="./img/docker.svg"/>
 <img align="left" alt="Github" width="26px" src="./img/github.svg"/>
 
-
-
 ---
 
 ### 📫 Contact Me:  
