@@ -20,5 +20,3 @@ I'm a developer passionate about coding, self-hosting, and Linux! 🖥️🚀
 
 - Discord: **isaiah_dev**
 - Email: **Isaiah@isaiahdev999.com** ```
-
-Remember to save your changes, commit them, and push them to your GitHub repository to see the updated README!
