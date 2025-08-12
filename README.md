@@ -17,6 +17,6 @@ I develop with Python and JavaScript, but my true passion lies in the realm of s
 ---
 
 ### 📫 Contact Me: 
-- Discord: **isaiah_dev**
+- Discord: **.isaiahdev**
 - Email: **Isaiah@isaiahdev999.com**
 - Email: **Isaiahxx@pm.me**
