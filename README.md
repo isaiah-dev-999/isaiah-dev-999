@@ -18,4 +18,4 @@ I develop with Python and JavaScript, but my true passion lies in the realm of s
 
 ### 📫 Contact Me: 
 - Discord: **.isaiahdev**
-- Email: **Isaiahxx@pm.me**
+- Email: **isaiahdevxx@pm.me**
